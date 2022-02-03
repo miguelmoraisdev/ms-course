@@ -5,7 +5,7 @@ import com.miguelm.hrworker.repositories.WorkerRepository
 import com.miguelm.hrworker.services.exceptions.ResourceNotFoundException
 import org.springframework.stereotype.Service
 import java.util.stream.Collectors
-import javax.persistence.EntityNotFoundException
+
 
 
 @Service
